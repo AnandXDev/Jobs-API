@@ -1,0 +1,3625 @@
+[
+  {
+    "id": "JOB0001",
+    "name": "Data Analyst at TechNova Labs",
+    "role": "Data Analyst",
+    "company_name": "TechNova Labs",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Data Analyst at TechNova Labs, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/1-1/800/450",
+      "https://picsum.photos/seed/1-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "Azure",
+      "MySQL",
+      "Networking",
+      "MongoDB",
+      "Testing/QA"
+    ],
+    "start_date_to_apply": "2025-09-22",
+    "last_date_to_apply": "2025-10-25",
+    "job_rating": 4.7
+  },
+  {
+    "id": "JOB0002",
+    "name": "Frontend Developer at QuantumLeaf",
+    "role": "Frontend Developer",
+    "company_name": "QuantumLeaf",
+    "location": "Chennai, IN",
+    "desc": "As a Frontend Developer at QuantumLeaf, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chennai, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Frontend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/2-1/800/450",
+      "https://picsum.photos/seed/2-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2500000
+    },
+    "skills_required": [
+      "Swift",
+      "Terraform",
+      "TypeScript",
+      "Adobe XD",
+      "Kubernetes"
+    ],
+    "start_date_to_apply": "2025-09-03",
+    "last_date_to_apply": "2025-10-05",
+    "job_rating": 4.3
+  },
+  {
+    "id": "JOB0003",
+    "name": "Database Administrator at SummitStack",
+    "role": "Database Administrator",
+    "company_name": "SummitStack",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Database Administrator at SummitStack, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Database Administrator to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/3-1/800/450",
+      "https://picsum.photos/seed/3-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1900000
+    },
+    "skills_required": [
+      "Microservices",
+      "REST API",
+      "Selenium",
+      "Java"
+    ],
+    "start_date_to_apply": "2025-09-09",
+    "last_date_to_apply": "2025-09-29",
+    "job_rating": 3.7
+  },
+  {
+    "id": "JOB0004",
+    "name": "Full-Stack Engineer at Solstice AI",
+    "role": "Full-Stack Engineer",
+    "company_name": "Solstice AI",
+    "location": "Gurugram, IN",
+    "desc": "As a Full-Stack Engineer at Solstice AI, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Gurugram, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Full-Stack Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/4-1/800/450",
+      "https://picsum.photos/seed/4-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1300000
+    },
+    "skills_required": [
+      "Flask",
+      "Terraform",
+      "Linux",
+      "React",
+      "C++",
+      "Figma"
+    ],
+    "start_date_to_apply": "2025-09-05",
+    "last_date_to_apply": "2025-09-18",
+    "job_rating": 4.9
+  },
+  {
+    "id": "JOB0005",
+    "name": "Product Manager at EchoGrid",
+    "role": "Product Manager",
+    "company_name": "EchoGrid",
+    "location": "Patna, IN",
+    "desc": "As a Product Manager at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Product Manager to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/5-1/800/450",
+      "https://picsum.photos/seed/5-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "JIRA",
+      "Kubernetes",
+      "Cypress",
+      "Node.js",
+      "React",
+      "Elasticsearch"
+    ],
+    "start_date_to_apply": "2025-09-19",
+    "last_date_to_apply": "2025-10-06",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0006",
+    "name": "Data Analyst at Solstice AI",
+    "role": "Data Analyst",
+    "company_name": "Solstice AI",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Data Analyst at Solstice AI, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/6-1/800/450",
+      "https://picsum.photos/seed/6-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "Kafka",
+      "Pandas",
+      "REST API",
+      "Microservices",
+      "Flask",
+      "AWS",
+      "Elasticsearch"
+    ],
+    "start_date_to_apply": "2025-09-29",
+    "last_date_to_apply": "2025-10-17",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0007",
+    "name": "AR/VR Developer at Orbitware",
+    "role": "AR/VR Developer",
+    "company_name": "Orbitware",
+    "location": "Chandigarh, IN",
+    "desc": "As a AR/VR Developer at Orbitware, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a AR/VR Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/7-1/800/450",
+      "https://picsum.photos/seed/7-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2300000
+    },
+    "skills_required": [
+      "REST API",
+      "C++",
+      "NumPy",
+      "CI/CD",
+      "Kafka"
+    ],
+    "start_date_to_apply": "2025-09-21",
+    "last_date_to_apply": "2025-10-23",
+    "job_rating": 4.1
+  },
+  {
+    "id": "JOB0008",
+    "name": "Support Engineer at BlueSky Systems",
+    "role": "Support Engineer",
+    "company_name": "BlueSky Systems",
+    "location": "Kolkata, IN",
+    "desc": "As a Support Engineer at BlueSky Systems, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kolkata, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Support Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/8-1/800/450",
+      "https://picsum.photos/seed/8-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2200000
+    },
+    "skills_required": [
+      "Python",
+      "TensorFlow",
+      "CI/CD",
+      "Node.js"
+    ],
+    "start_date_to_apply": "2025-09-28",
+    "last_date_to_apply": "2025-10-14",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0009",
+    "name": "AR/VR Developer at Firefly Studios",
+    "role": "AR/VR Developer",
+    "company_name": "Firefly Studios",
+    "location": "Jaipur, IN",
+    "desc": "As a AR/VR Developer at Firefly Studios, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Jaipur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a AR/VR Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/9-1/800/450",
+      "https://picsum.photos/seed/9-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "GraphQL",
+      "Linux",
+      "MySQL",
+      "GCP",
+      "Adobe XD",
+      "Figma",
+      "Microservices"
+    ],
+    "start_date_to_apply": "2025-09-08",
+    "last_date_to_apply": "2025-10-11",
+    "job_rating": 4.2
+  },
+  {
+    "id": "JOB0010",
+    "name": "Mobile App Developer at NexGen Softworks",
+    "role": "Mobile App Developer",
+    "company_name": "NexGen Softworks",
+    "location": "Surat, IN",
+    "desc": "As a Mobile App Developer at NexGen Softworks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Surat, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Mobile App Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/10-1/800/450",
+      "https://picsum.photos/seed/10-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "Express",
+      "Microservices",
+      "Next.js",
+      "PostgreSQL",
+      "GraphQL",
+      "Kafka",
+      "REST API"
+    ],
+    "start_date_to_apply": "2025-09-13",
+    "last_date_to_apply": "2025-10-18",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0011",
+    "name": "ML Engineer at OpalWorks",
+    "role": "ML Engineer",
+    "company_name": "OpalWorks",
+    "location": "Indore, IN",
+    "desc": "As a ML Engineer at OpalWorks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Indore, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a ML Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/11-1/800/450",
+      "https://picsum.photos/seed/11-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "Linux",
+      "Adobe XD",
+      "JavaScript",
+      "Testing/QA",
+      "PostgreSQL",
+      "Security",
+      "Figma",
+      "CI/CD"
+    ],
+    "start_date_to_apply": "2025-09-14",
+    "last_date_to_apply": "2025-10-18",
+    "job_rating": 4.3
+  },
+  {
+    "id": "JOB0012",
+    "name": "DevOps Engineer at SilverOak Networks",
+    "role": "DevOps Engineer",
+    "company_name": "SilverOak Networks",
+    "location": "Bengaluru, IN",
+    "desc": "As a DevOps Engineer at SilverOak Networks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Bengaluru, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a DevOps Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/12-1/800/450",
+      "https://picsum.photos/seed/12-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1800000
+    },
+    "skills_required": [
+      "Swift",
+      "Microservices",
+      "Docker",
+      "System Design",
+      "MongoDB",
+      "Kafka"
+    ],
+    "start_date_to_apply": "2025-09-15",
+    "last_date_to_apply": "2025-10-04",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0013",
+    "name": "Security Engineer at Orbitware",
+    "role": "Security Engineer",
+    "company_name": "Orbitware",
+    "location": "Chandigarh, IN",
+    "desc": "As a Security Engineer at Orbitware, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Security Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/13-1/800/450",
+      "https://picsum.photos/seed/13-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "JavaScript",
+      "Terraform",
+      "Python",
+      "Go",
+      "TypeScript",
+      "PostgreSQL",
+      "Pandas",
+      "Git"
+    ],
+    "start_date_to_apply": "2025-09-06",
+    "last_date_to_apply": "2025-09-23",
+    "job_rating": 3.3
+  },
+  {
+    "id": "JOB0014",
+    "name": "Automation Engineer at Firefly Studios",
+    "role": "Automation Engineer",
+    "company_name": "Firefly Studios",
+    "location": "Pune, IN",
+    "desc": "As a Automation Engineer at Firefly Studios, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Pune, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Automation Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/14-1/800/450",
+      "https://picsum.photos/seed/14-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "System Design",
+      "MySQL",
+      "Microservices",
+      "Elasticsearch",
+      "C#",
+      "Adobe XD",
+      "REST API",
+      "Linux"
+    ],
+    "start_date_to_apply": "2025-09-04",
+    "last_date_to_apply": "2025-09-30",
+    "job_rating": 4.7
+  },
+  {
+    "id": "JOB0015",
+    "name": "Solutions Architect at HyperTrail",
+    "role": "Solutions Architect",
+    "company_name": "HyperTrail",
+    "location": "Chennai, IN",
+    "desc": "As a Solutions Architect at HyperTrail, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chennai, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Solutions Architect to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/15-1/800/450",
+      "https://picsum.photos/seed/15-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1100000
+    },
+    "skills_required": [
+      "TensorFlow",
+      "Elasticsearch",
+      "Redis",
+      "Pandas",
+      "Spring Boot",
+      "Kotlin"
+    ],
+    "start_date_to_apply": "2025-10-01",
+    "last_date_to_apply": "2025-10-25",
+    "job_rating": 3.4
+  },
+  {
+    "id": "JOB0016",
+    "name": "Frontend Developer at SummitStack",
+    "role": "Frontend Developer",
+    "company_name": "SummitStack",
+    "location": "Chandigarh, IN",
+    "desc": "As a Frontend Developer at SummitStack, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Frontend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/16-1/800/450",
+      "https://picsum.photos/seed/16-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 900000
+    },
+    "skills_required": [
+      "Agile/Scrum",
+      "Azure",
+      "JavaScript",
+      "Node.js",
+      "Cypress"
+    ],
+    "start_date_to_apply": "2025-09-12",
+    "last_date_to_apply": "2025-10-12",
+    "job_rating": 3.3
+  },
+  {
+    "id": "JOB0017",
+    "name": "QA Engineer at QuantumLeaf",
+    "role": "QA Engineer",
+    "company_name": "QuantumLeaf",
+    "location": "Surat, IN",
+    "desc": "As a QA Engineer at QuantumLeaf, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Surat, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a QA Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/17-1/800/450",
+      "https://picsum.photos/seed/17-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2700000
+    },
+    "skills_required": [
+      "CI/CD",
+      "Elasticsearch",
+      "Go",
+      "AWS",
+      "Figma"
+    ],
+    "start_date_to_apply": "2025-09-29",
+    "last_date_to_apply": "2025-10-13",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0018",
+    "name": "Network Engineer at GreenField Tech",
+    "role": "Network Engineer",
+    "company_name": "GreenField Tech",
+    "location": "Chennai, IN",
+    "desc": "As a Network Engineer at GreenField Tech, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chennai, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Network Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/18-1/800/450",
+      "https://picsum.photos/seed/18-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "MongoDB",
+      "Elasticsearch",
+      "Java",
+      "Flask"
+    ],
+    "start_date_to_apply": "2025-09-09",
+    "last_date_to_apply": "2025-10-02",
+    "job_rating": 3.9
+  },
+  {
+    "id": "JOB0019",
+    "name": "AR/VR Developer at EchoGrid",
+    "role": "AR/VR Developer",
+    "company_name": "EchoGrid",
+    "location": "Gurugram, IN",
+    "desc": "As a AR/VR Developer at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Gurugram, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a AR/VR Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/19-1/800/450",
+      "https://picsum.photos/seed/19-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2600000
+    },
+    "skills_required": [
+      "TensorFlow",
+      "Security",
+      "Django",
+      "MongoDB"
+    ],
+    "start_date_to_apply": "2025-09-23",
+    "last_date_to_apply": "2025-10-10",
+    "job_rating": 3.5
+  },
+  {
+    "id": "JOB0020",
+    "name": "Site Reliability Engineer at Orbitware",
+    "role": "Site Reliability Engineer",
+    "company_name": "Orbitware",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Site Reliability Engineer at Orbitware, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/20-1/800/450",
+      "https://picsum.photos/seed/20-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "GCP",
+      "Node.js",
+      "Spring Boot",
+      "Adobe XD",
+      "MongoDB",
+      "Next.js",
+      "Redis"
+    ],
+    "start_date_to_apply": "2025-09-06",
+    "last_date_to_apply": "2025-10-03",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0021",
+    "name": "Site Reliability Engineer at Firefly Studios",
+    "role": "Site Reliability Engineer",
+    "company_name": "Firefly Studios",
+    "location": "Lucknow, IN",
+    "desc": "As a Site Reliability Engineer at Firefly Studios, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Lucknow, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/21-1/800/450",
+      "https://picsum.photos/seed/21-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2800000
+    },
+    "skills_required": [
+      "TensorFlow",
+      "Next.js",
+      "REST API",
+      "NumPy",
+      "JavaScript"
+    ],
+    "start_date_to_apply": "2025-09-07",
+    "last_date_to_apply": "2025-09-29",
+    "job_rating": 3.7
+  },
+  {
+    "id": "JOB0022",
+    "name": "Site Reliability Engineer at LumenLogic",
+    "role": "Site Reliability Engineer",
+    "company_name": "LumenLogic",
+    "location": "Chandigarh, IN",
+    "desc": "As a Site Reliability Engineer at LumenLogic, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/22-1/800/450",
+      "https://picsum.photos/seed/22-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 900000
+    },
+    "skills_required": [
+      "GraphQL",
+      "Kubernetes",
+      "Jenkins",
+      "AWS",
+      "Next.js",
+      "Agile/Scrum",
+      "Figma"
+    ],
+    "start_date_to_apply": "2025-09-11",
+    "last_date_to_apply": "2025-09-22",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0023",
+    "name": "Network Engineer at Cobalt Data",
+    "role": "Network Engineer",
+    "company_name": "Cobalt Data",
+    "location": "Surat, IN",
+    "desc": "As a Network Engineer at Cobalt Data, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Surat, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Network Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/23-1/800/450",
+      "https://picsum.photos/seed/23-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "Next.js",
+      "Swift",
+      "Express",
+      "Docker",
+      "Node.js"
+    ],
+    "start_date_to_apply": "2025-09-20",
+    "last_date_to_apply": "2025-10-19",
+    "job_rating": 3.3
+  },
+  {
+    "id": "JOB0024",
+    "name": "Data Analyst at SummitStack",
+    "role": "Data Analyst",
+    "company_name": "SummitStack",
+    "location": "Kolkata, IN",
+    "desc": "As a Data Analyst at SummitStack, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kolkata, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/24-1/800/450",
+      "https://picsum.photos/seed/24-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1600000
+    },
+    "skills_required": [
+      "Terraform",
+      "React",
+      "Ansible",
+      "Express",
+      "PyTorch",
+      "Elasticsearch",
+      "Agile/Scrum",
+      "JIRA"
+    ],
+    "start_date_to_apply": "2025-09-14",
+    "last_date_to_apply": "2025-10-10",
+    "job_rating": 3.7
+  },
+  {
+    "id": "JOB0025",
+    "name": "Embedded Systems Engineer at CrimsonPeak",
+    "role": "Embedded Systems Engineer",
+    "company_name": "CrimsonPeak",
+    "location": "Kolkata, IN",
+    "desc": "As a Embedded Systems Engineer at CrimsonPeak, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kolkata, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Embedded Systems Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/25-1/800/450",
+      "https://picsum.photos/seed/25-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 800000
+    },
+    "skills_required": [
+      "TensorFlow",
+      "MySQL",
+      "Elasticsearch",
+      "Redis",
+      "Git",
+      "C++"
+    ],
+    "start_date_to_apply": "2025-09-23",
+    "last_date_to_apply": "2025-10-13",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0026",
+    "name": "Game Developer at SummitStack",
+    "role": "Game Developer",
+    "company_name": "SummitStack",
+    "location": "Gurugram, IN",
+    "desc": "As a Game Developer at SummitStack, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Gurugram, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Game Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/26-1/800/450",
+      "https://picsum.photos/seed/26-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "Figma",
+      "AWS",
+      "Swift",
+      "Linux"
+    ],
+    "start_date_to_apply": "2025-09-16",
+    "last_date_to_apply": "2025-09-30",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0027",
+    "name": "Product Manager at Orbitware",
+    "role": "Product Manager",
+    "company_name": "Orbitware",
+    "location": "Indore, IN",
+    "desc": "As a Product Manager at Orbitware, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Indore, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Product Manager to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/27-1/800/450",
+      "https://picsum.photos/seed/27-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1200000
+    },
+    "skills_required": [
+      "Cypress",
+      "Git",
+      "Ansible",
+      "Redis",
+      "Kotlin",
+      "JavaScript",
+      "Elasticsearch",
+      "Adobe XD"
+    ],
+    "start_date_to_apply": "2025-09-13",
+    "last_date_to_apply": "2025-10-02",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0028",
+    "name": "Data Analyst at PixelPioneer",
+    "role": "Data Analyst",
+    "company_name": "PixelPioneer",
+    "location": "Chandigarh, IN",
+    "desc": "As a Data Analyst at PixelPioneer, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/28-1/800/450",
+      "https://picsum.photos/seed/28-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "CI/CD",
+      "Jenkins",
+      "Terraform",
+      "AWS",
+      "Cypress"
+    ],
+    "start_date_to_apply": "2025-09-10",
+    "last_date_to_apply": "2025-09-30",
+    "job_rating": 3.5
+  },
+  {
+    "id": "JOB0029",
+    "name": "Network Engineer at Nimbus Cloud Co",
+    "role": "Network Engineer",
+    "company_name": "Nimbus Cloud Co",
+    "location": "Hyderabad, IN",
+    "desc": "As a Network Engineer at Nimbus Cloud Co, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Hyderabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Network Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/29-1/800/450",
+      "https://picsum.photos/seed/29-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "Kafka",
+      "Java",
+      "CI/CD",
+      "React"
+    ],
+    "start_date_to_apply": "2025-09-18",
+    "last_date_to_apply": "2025-09-28",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0030",
+    "name": "Automation Engineer at SilverOak Networks",
+    "role": "Automation Engineer",
+    "company_name": "SilverOak Networks",
+    "location": "Chandigarh, IN",
+    "desc": "As a Automation Engineer at SilverOak Networks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Automation Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/30-1/800/450",
+      "https://picsum.photos/seed/30-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1600000
+    },
+    "skills_required": [
+      "Adobe XD",
+      "JavaScript",
+      "PostgreSQL",
+      "Node.js",
+      "Selenium",
+      "GraphQL",
+      "Figma"
+    ],
+    "start_date_to_apply": "2025-09-07",
+    "last_date_to_apply": "2025-09-18",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0031",
+    "name": "Data Scientist at BlueSky Systems",
+    "role": "Data Scientist",
+    "company_name": "BlueSky Systems",
+    "location": "Remote, IN",
+    "desc": "As a Data Scientist at BlueSky Systems, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Remote, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Scientist to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/31-1/800/450",
+      "https://picsum.photos/seed/31-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2500000
+    },
+    "skills_required": [
+      "React",
+      "Flask",
+      "AWS",
+      "Testing/QA",
+      "GCP",
+      "Elasticsearch"
+    ],
+    "start_date_to_apply": "2025-09-15",
+    "last_date_to_apply": "2025-09-28",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0032",
+    "name": "Automation Engineer at NexGen Softworks",
+    "role": "Automation Engineer",
+    "company_name": "NexGen Softworks",
+    "location": "Kolkata, IN",
+    "desc": "As a Automation Engineer at NexGen Softworks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kolkata, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Automation Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/32-1/800/450",
+      "https://picsum.photos/seed/32-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "Docker",
+      "PyTorch",
+      "TypeScript",
+      "Networking",
+      "Django"
+    ],
+    "start_date_to_apply": "2025-09-21",
+    "last_date_to_apply": "2025-10-26",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0033",
+    "name": "DevOps Engineer at LumenLogic",
+    "role": "DevOps Engineer",
+    "company_name": "LumenLogic",
+    "location": "Gurugram, IN",
+    "desc": "As a DevOps Engineer at LumenLogic, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Gurugram, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a DevOps Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/33-1/800/450",
+      "https://picsum.photos/seed/33-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1600000
+    },
+    "skills_required": [
+      "React",
+      "C#",
+      "Azure",
+      "Kubernetes",
+      "C++",
+      "Flask",
+      "Git"
+    ],
+    "start_date_to_apply": "2025-09-10",
+    "last_date_to_apply": "2025-10-16",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0034",
+    "name": "Blockchain Developer at BrightPath Analytics",
+    "role": "Blockchain Developer",
+    "company_name": "BrightPath Analytics",
+    "location": "Jaipur, IN",
+    "desc": "As a Blockchain Developer at BrightPath Analytics, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Jaipur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Blockchain Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/34-1/800/450",
+      "https://picsum.photos/seed/34-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "CI/CD",
+      "Node.js",
+      "System Design",
+      "Flask",
+      "Redis",
+      "Swift"
+    ],
+    "start_date_to_apply": "2025-09-02",
+    "last_date_to_apply": "2025-09-24",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0035",
+    "name": "Frontend Developer at PixelPioneer",
+    "role": "Frontend Developer",
+    "company_name": "PixelPioneer",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Frontend Developer at PixelPioneer, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Frontend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/35-1/800/450",
+      "https://picsum.photos/seed/35-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "Agile/Scrum",
+      "Linux",
+      "React",
+      "MongoDB",
+      "Terraform"
+    ],
+    "start_date_to_apply": "2025-10-02",
+    "last_date_to_apply": "2025-10-25",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0036",
+    "name": "Game Developer at Cobalt Data",
+    "role": "Game Developer",
+    "company_name": "Cobalt Data",
+    "location": "Gurugram, IN",
+    "desc": "As a Game Developer at Cobalt Data, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Gurugram, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Game Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/36-1/800/450",
+      "https://picsum.photos/seed/36-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1800000
+    },
+    "skills_required": [
+      "JIRA",
+      "Kubernetes",
+      "Linux",
+      "React",
+      "Cypress",
+      "Java",
+      "JavaScript"
+    ],
+    "start_date_to_apply": "2025-09-15",
+    "last_date_to_apply": "2025-10-11",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0037",
+    "name": "Site Reliability Engineer at QuantumLeaf",
+    "role": "Site Reliability Engineer",
+    "company_name": "QuantumLeaf",
+    "location": "Remote, Global",
+    "desc": "As a Site Reliability Engineer at QuantumLeaf, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Remote, Global with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/37-1/800/450",
+      "https://picsum.photos/seed/37-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2200000
+    },
+    "skills_required": [
+      "Python",
+      "Elasticsearch",
+      "PostgreSQL",
+      "Security",
+      "Git",
+      "Swift",
+      "Cypress",
+      "Microservices"
+    ],
+    "start_date_to_apply": "2025-09-13",
+    "last_date_to_apply": "2025-10-06",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0038",
+    "name": "Data Scientist at BrightPath Analytics",
+    "role": "Data Scientist",
+    "company_name": "BrightPath Analytics",
+    "location": "Kochi, IN",
+    "desc": "As a Data Scientist at BrightPath Analytics, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kochi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Scientist to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/38-1/800/450",
+      "https://picsum.photos/seed/38-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1900000
+    },
+    "skills_required": [
+      "Testing/QA",
+      "Networking",
+      "Docker",
+      "Ansible",
+      "JIRA",
+      "Git",
+      "TensorFlow"
+    ],
+    "start_date_to_apply": "2025-09-19",
+    "last_date_to_apply": "2025-10-16",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0039",
+    "name": "Site Reliability Engineer at SummitStack",
+    "role": "Site Reliability Engineer",
+    "company_name": "SummitStack",
+    "location": "Patna, IN",
+    "desc": "As a Site Reliability Engineer at SummitStack, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/39-1/800/450",
+      "https://picsum.photos/seed/39-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 1900000
+    },
+    "skills_required": [
+      "C++",
+      "Spring Boot",
+      "Microservices",
+      "Testing/QA",
+      "AWS",
+      "Swift"
+    ],
+    "start_date_to_apply": "2025-09-08",
+    "last_date_to_apply": "2025-10-03",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0040",
+    "name": "Full-Stack Engineer at ZenByte",
+    "role": "Full-Stack Engineer",
+    "company_name": "ZenByte",
+    "location": "Surat, IN",
+    "desc": "As a Full-Stack Engineer at ZenByte, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Surat, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Full-Stack Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/40-1/800/450",
+      "https://picsum.photos/seed/40-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1300000
+    },
+    "skills_required": [
+      "Django",
+      "Express",
+      "GCP",
+      "Testing/QA",
+      "Git",
+      "Azure",
+      "Kubernetes",
+      "GraphQL"
+    ],
+    "start_date_to_apply": "2025-09-23",
+    "last_date_to_apply": "2025-10-03",
+    "job_rating": 3.3
+  },
+  {
+    "id": "JOB0041",
+    "name": "Site Reliability Engineer at EchoGrid",
+    "role": "Site Reliability Engineer",
+    "company_name": "EchoGrid",
+    "location": "Nagpur, IN",
+    "desc": "As a Site Reliability Engineer at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Nagpur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/41-1/800/450",
+      "https://picsum.photos/seed/41-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 1300000
+    },
+    "skills_required": [
+      "Cypress",
+      "Selenium",
+      "NumPy",
+      "Go",
+      "TensorFlow"
+    ],
+    "start_date_to_apply": "2025-09-16",
+    "last_date_to_apply": "2025-10-03",
+    "job_rating": 3.5
+  },
+  {
+    "id": "JOB0042",
+    "name": "Support Engineer at PixelPioneer",
+    "role": "Support Engineer",
+    "company_name": "PixelPioneer",
+    "location": "Kochi, IN",
+    "desc": "As a Support Engineer at PixelPioneer, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kochi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Support Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/42-1/800/450",
+      "https://picsum.photos/seed/42-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "Docker",
+      "Selenium",
+      "Kotlin",
+      "C++",
+      "Next.js"
+    ],
+    "start_date_to_apply": "2025-09-30",
+    "last_date_to_apply": "2025-10-27",
+    "job_rating": 3.6
+  },
+  {
+    "id": "JOB0043",
+    "name": "Data Scientist at SilverOak Networks",
+    "role": "Data Scientist",
+    "company_name": "SilverOak Networks",
+    "location": "Surat, IN",
+    "desc": "As a Data Scientist at SilverOak Networks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Surat, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Scientist to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/43-1/800/450",
+      "https://picsum.photos/seed/43-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2900000
+    },
+    "skills_required": [
+      "Terraform",
+      "Python",
+      "Spring Boot",
+      "Ansible",
+      "Swift",
+      "Java",
+      "Adobe XD",
+      "Networking"
+    ],
+    "start_date_to_apply": "2025-09-16",
+    "last_date_to_apply": "2025-10-24",
+    "job_rating": 3.5
+  },
+  {
+    "id": "JOB0044",
+    "name": "UI/UX Designer at RiverStone Digital",
+    "role": "UI/UX Designer",
+    "company_name": "RiverStone Digital",
+    "location": "Ahmedabad, IN",
+    "desc": "As a UI/UX Designer at RiverStone Digital, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a UI/UX Designer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/44-1/800/450",
+      "https://picsum.photos/seed/44-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "Go",
+      "Kafka",
+      "GCP",
+      "CI/CD",
+      "Spring Boot",
+      "Node.js",
+      "Jenkins",
+      "Networking"
+    ],
+    "start_date_to_apply": "2025-09-16",
+    "last_date_to_apply": "2025-10-04",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0045",
+    "name": "Data Scientist at RiverStone Digital",
+    "role": "Data Scientist",
+    "company_name": "RiverStone Digital",
+    "location": "Jaipur, IN",
+    "desc": "As a Data Scientist at RiverStone Digital, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Jaipur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Scientist to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/45-1/800/450",
+      "https://picsum.photos/seed/45-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "Cypress",
+      "AWS",
+      "Node.js",
+      "PyTorch",
+      "Django"
+    ],
+    "start_date_to_apply": "2025-09-06",
+    "last_date_to_apply": "2025-10-03",
+    "job_rating": 4.0
+  },
+  {
+    "id": "JOB0046",
+    "name": "Site Reliability Engineer at Solstice AI",
+    "role": "Site Reliability Engineer",
+    "company_name": "Solstice AI",
+    "location": "Nagpur, IN",
+    "desc": "As a Site Reliability Engineer at Solstice AI, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Nagpur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/46-1/800/450",
+      "https://picsum.photos/seed/46-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 2200000
+    },
+    "skills_required": [
+      "Microservices",
+      "JIRA",
+      "NumPy",
+      "C#"
+    ],
+    "start_date_to_apply": "2025-09-28",
+    "last_date_to_apply": "2025-10-08",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0047",
+    "name": "Site Reliability Engineer at Aurora Apps",
+    "role": "Site Reliability Engineer",
+    "company_name": "Aurora Apps",
+    "location": "Chandigarh, IN",
+    "desc": "As a Site Reliability Engineer at Aurora Apps, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/47-1/800/450",
+      "https://picsum.photos/seed/47-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2600000
+    },
+    "skills_required": [
+      "Azure",
+      "Go",
+      "System Design",
+      "CI/CD",
+      "Java",
+      "Microservices",
+      "TypeScript",
+      "NumPy"
+    ],
+    "start_date_to_apply": "2025-09-29",
+    "last_date_to_apply": "2025-10-19",
+    "job_rating": 4.3
+  },
+  {
+    "id": "JOB0048",
+    "name": "DevOps Engineer at SilverOak Networks",
+    "role": "DevOps Engineer",
+    "company_name": "SilverOak Networks",
+    "location": "Noida, IN",
+    "desc": "As a DevOps Engineer at SilverOak Networks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Noida, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a DevOps Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/48-1/800/450",
+      "https://picsum.photos/seed/48-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2800000
+    },
+    "skills_required": [
+      "Figma",
+      "TypeScript",
+      "TensorFlow",
+      "Agile/Scrum",
+      "JIRA",
+      "Elasticsearch",
+      "Microservices",
+      "Express"
+    ],
+    "start_date_to_apply": "2025-09-25",
+    "last_date_to_apply": "2025-10-25",
+    "job_rating": 3.9
+  },
+  {
+    "id": "JOB0049",
+    "name": "Backend Developer at Nimbus Cloud Co",
+    "role": "Backend Developer",
+    "company_name": "Nimbus Cloud Co",
+    "location": "Jaipur, IN",
+    "desc": "As a Backend Developer at Nimbus Cloud Co, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Jaipur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Backend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/49-1/800/450",
+      "https://picsum.photos/seed/49-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1900000
+    },
+    "skills_required": [
+      "AWS",
+      "C++",
+      "Python",
+      "Django",
+      "NumPy",
+      "CI/CD"
+    ],
+    "start_date_to_apply": "2025-09-07",
+    "last_date_to_apply": "2025-10-11",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0050",
+    "name": "Full-Stack Engineer at Firefly Studios",
+    "role": "Full-Stack Engineer",
+    "company_name": "Firefly Studios",
+    "location": "Bengaluru, IN",
+    "desc": "As a Full-Stack Engineer at Firefly Studios, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Bengaluru, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Full-Stack Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/50-1/800/450",
+      "https://picsum.photos/seed/50-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "Next.js",
+      "Flask",
+      "Azure",
+      "Redis",
+      "Node.js",
+      "Security",
+      "React",
+      "TypeScript"
+    ],
+    "start_date_to_apply": "2025-09-28",
+    "last_date_to_apply": "2025-11-07",
+    "job_rating": 3.6
+  },
+  {
+    "id": "JOB0051",
+    "name": "Data Scientist at RiverStone Digital",
+    "role": "Data Scientist",
+    "company_name": "RiverStone Digital",
+    "location": "Noida, IN",
+    "desc": "As a Data Scientist at RiverStone Digital, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Noida, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Scientist to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/51-1/800/450",
+      "https://picsum.photos/seed/51-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "Elasticsearch",
+      "PostgreSQL",
+      "JIRA",
+      "AWS",
+      "C++",
+      "Selenium",
+      "Linux"
+    ],
+    "start_date_to_apply": "2025-09-21",
+    "last_date_to_apply": "2025-10-25",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0052",
+    "name": "DevOps Engineer at ZenByte",
+    "role": "DevOps Engineer",
+    "company_name": "ZenByte",
+    "location": "Gurugram, IN",
+    "desc": "As a DevOps Engineer at ZenByte, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Gurugram, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a DevOps Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/52-1/800/450",
+      "https://picsum.photos/seed/52-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2000000
+    },
+    "skills_required": [
+      "TypeScript",
+      "Git",
+      "JIRA",
+      "Testing/QA",
+      "NumPy",
+      "TensorFlow",
+      "Kubernetes",
+      "Node.js"
+    ],
+    "start_date_to_apply": "2025-09-26",
+    "last_date_to_apply": "2025-10-24",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0053",
+    "name": "Embedded Systems Engineer at ZenByte",
+    "role": "Embedded Systems Engineer",
+    "company_name": "ZenByte",
+    "location": "Patna, IN",
+    "desc": "As a Embedded Systems Engineer at ZenByte, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Embedded Systems Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/53-1/800/450",
+      "https://picsum.photos/seed/53-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "JIRA",
+      "React",
+      "Flask",
+      "Figma"
+    ],
+    "start_date_to_apply": "2025-09-05",
+    "last_date_to_apply": "2025-09-28",
+    "job_rating": 4.3
+  },
+  {
+    "id": "JOB0054",
+    "name": "QA Engineer at TechNova Labs",
+    "role": "QA Engineer",
+    "company_name": "TechNova Labs",
+    "location": "Kochi, IN",
+    "desc": "As a QA Engineer at TechNova Labs, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kochi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a QA Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/54-1/800/450",
+      "https://picsum.photos/seed/54-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "MongoDB",
+      "Java",
+      "Pandas",
+      "Kafka",
+      "C++",
+      "GraphQL",
+      "Microservices"
+    ],
+    "start_date_to_apply": "2025-09-22",
+    "last_date_to_apply": "2025-10-07",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0055",
+    "name": "Solutions Architect at Firefly Studios",
+    "role": "Solutions Architect",
+    "company_name": "Firefly Studios",
+    "location": "Indore, IN",
+    "desc": "As a Solutions Architect at Firefly Studios, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Indore, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Solutions Architect to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/55-1/800/450",
+      "https://picsum.photos/seed/55-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2800000
+    },
+    "skills_required": [
+      "Security",
+      "Agile/Scrum",
+      "CI/CD",
+      "Python",
+      "GCP",
+      "Express",
+      "Networking"
+    ],
+    "start_date_to_apply": "2025-09-21",
+    "last_date_to_apply": "2025-10-29",
+    "job_rating": 4.0
+  },
+  {
+    "id": "JOB0056",
+    "name": "Game Developer at UrbanCloud",
+    "role": "Game Developer",
+    "company_name": "UrbanCloud",
+    "location": "Jaipur, IN",
+    "desc": "As a Game Developer at UrbanCloud, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Jaipur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Game Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/56-1/800/450",
+      "https://picsum.photos/seed/56-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1800000
+    },
+    "skills_required": [
+      "TypeScript",
+      "Go",
+      "Python",
+      "Docker",
+      "Microservices",
+      "AWS"
+    ],
+    "start_date_to_apply": "2025-09-20",
+    "last_date_to_apply": "2025-10-11",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0057",
+    "name": "Game Developer at LumenLogic",
+    "role": "Game Developer",
+    "company_name": "LumenLogic",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Game Developer at LumenLogic, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Game Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/57-1/800/450",
+      "https://picsum.photos/seed/57-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2600000
+    },
+    "skills_required": [
+      "JavaScript",
+      "Kotlin",
+      "Kubernetes",
+      "Express",
+      "GCP",
+      "PyTorch",
+      "Go",
+      "Adobe XD"
+    ],
+    "start_date_to_apply": "2025-09-30",
+    "last_date_to_apply": "2025-11-03",
+    "job_rating": 3.6
+  },
+  {
+    "id": "JOB0058",
+    "name": "Frontend Developer at QuantumLeaf",
+    "role": "Frontend Developer",
+    "company_name": "QuantumLeaf",
+    "location": "Remote, IN",
+    "desc": "As a Frontend Developer at QuantumLeaf, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Remote, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Frontend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/58-1/800/450",
+      "https://picsum.photos/seed/58-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2800000
+    },
+    "skills_required": [
+      "TensorFlow",
+      "Selenium",
+      "GCP",
+      "Git",
+      "Elasticsearch"
+    ],
+    "start_date_to_apply": "2025-09-16",
+    "last_date_to_apply": "2025-10-14",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0059",
+    "name": "Site Reliability Engineer at HyperTrail",
+    "role": "Site Reliability Engineer",
+    "company_name": "HyperTrail",
+    "location": "Chandigarh, IN",
+    "desc": "As a Site Reliability Engineer at HyperTrail, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/59-1/800/450",
+      "https://picsum.photos/seed/59-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1900000
+    },
+    "skills_required": [
+      "Flask",
+      "Selenium",
+      "C++",
+      "CI/CD",
+      "Git",
+      "Linux"
+    ],
+    "start_date_to_apply": "2025-09-13",
+    "last_date_to_apply": "2025-09-30",
+    "job_rating": 3.4
+  },
+  {
+    "id": "JOB0060",
+    "name": "Automation Engineer at Aurora Apps",
+    "role": "Automation Engineer",
+    "company_name": "Aurora Apps",
+    "location": "Mumbai, IN",
+    "desc": "As a Automation Engineer at Aurora Apps, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Mumbai, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Automation Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/60-1/800/450",
+      "https://picsum.photos/seed/60-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "AWS",
+      "Networking",
+      "C#",
+      "CI/CD",
+      "Security"
+    ],
+    "start_date_to_apply": "2025-09-05",
+    "last_date_to_apply": "2025-10-03",
+    "job_rating": 4.9
+  },
+  {
+    "id": "JOB0061",
+    "name": "Cloud Engineer at ZenByte",
+    "role": "Cloud Engineer",
+    "company_name": "ZenByte",
+    "location": "Kolkata, IN",
+    "desc": "As a Cloud Engineer at ZenByte, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kolkata, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Cloud Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/61-1/800/450",
+      "https://picsum.photos/seed/61-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "Docker",
+      "Git",
+      "JavaScript",
+      "Cypress",
+      "Figma",
+      "MySQL"
+    ],
+    "start_date_to_apply": "2025-09-05",
+    "last_date_to_apply": "2025-09-23",
+    "job_rating": 3.3
+  },
+  {
+    "id": "JOB0062",
+    "name": "Data Scientist at EchoGrid",
+    "role": "Data Scientist",
+    "company_name": "EchoGrid",
+    "location": "Lucknow, IN",
+    "desc": "As a Data Scientist at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Lucknow, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Scientist to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/62-1/800/450",
+      "https://picsum.photos/seed/62-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1000000
+    },
+    "skills_required": [
+      "JavaScript",
+      "JIRA",
+      "Jenkins",
+      "C#"
+    ],
+    "start_date_to_apply": "2025-09-24",
+    "last_date_to_apply": "2025-10-19",
+    "job_rating": 3.9
+  },
+  {
+    "id": "JOB0063",
+    "name": "Network Engineer at PixelPioneer",
+    "role": "Network Engineer",
+    "company_name": "PixelPioneer",
+    "location": "Pune, IN",
+    "desc": "As a Network Engineer at PixelPioneer, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Pune, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Network Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/63-1/800/450",
+      "https://picsum.photos/seed/63-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1200000
+    },
+    "skills_required": [
+      "Go",
+      "Node.js",
+      "JIRA",
+      "Kafka",
+      "Testing/QA",
+      "Next.js",
+      "GraphQL"
+    ],
+    "start_date_to_apply": "2025-09-10",
+    "last_date_to_apply": "2025-09-24",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0064",
+    "name": "Data Analyst at Aurora Apps",
+    "role": "Data Analyst",
+    "company_name": "Aurora Apps",
+    "location": "Kochi, IN",
+    "desc": "As a Data Analyst at Aurora Apps, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kochi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/64-1/800/450",
+      "https://picsum.photos/seed/64-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2000000
+    },
+    "skills_required": [
+      "Terraform",
+      "Ansible",
+      "Azure",
+      "Kotlin",
+      "NumPy",
+      "Spring Boot",
+      "Selenium",
+      "Git"
+    ],
+    "start_date_to_apply": "2025-09-09",
+    "last_date_to_apply": "2025-10-16",
+    "job_rating": 4.2
+  },
+  {
+    "id": "JOB0065",
+    "name": "Game Developer at BlueSky Systems",
+    "role": "Game Developer",
+    "company_name": "BlueSky Systems",
+    "location": "Patna, IN",
+    "desc": "As a Game Developer at BlueSky Systems, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Game Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/65-1/800/450",
+      "https://picsum.photos/seed/65-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "Microservices",
+      "AWS",
+      "Kafka",
+      "Linux"
+    ],
+    "start_date_to_apply": "2025-09-20",
+    "last_date_to_apply": "2025-10-21",
+    "job_rating": 3.3
+  },
+  {
+    "id": "JOB0066",
+    "name": "Full-Stack Engineer at Orbitware",
+    "role": "Full-Stack Engineer",
+    "company_name": "Orbitware",
+    "location": "Bengaluru, IN",
+    "desc": "As a Full-Stack Engineer at Orbitware, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Bengaluru, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Full-Stack Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/66-1/800/450",
+      "https://picsum.photos/seed/66-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2700000
+    },
+    "skills_required": [
+      "Spring Boot",
+      "Selenium",
+      "Terraform",
+      "C#",
+      "Jenkins",
+      "React",
+      "Azure"
+    ],
+    "start_date_to_apply": "2025-09-19",
+    "last_date_to_apply": "2025-10-08",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0067",
+    "name": "Blockchain Developer at RiverStone Digital",
+    "role": "Blockchain Developer",
+    "company_name": "RiverStone Digital",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Blockchain Developer at RiverStone Digital, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Blockchain Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/67-1/800/450",
+      "https://picsum.photos/seed/67-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1100000
+    },
+    "skills_required": [
+      "Elasticsearch",
+      "Kubernetes",
+      "Java",
+      "PostgreSQL",
+      "Figma",
+      "Azure",
+      "Redis",
+      "GraphQL"
+    ],
+    "start_date_to_apply": "2025-09-04",
+    "last_date_to_apply": "2025-10-13",
+    "job_rating": 3.7
+  },
+  {
+    "id": "JOB0068",
+    "name": "DevOps Engineer at ZenByte",
+    "role": "DevOps Engineer",
+    "company_name": "ZenByte",
+    "location": "Patna, IN",
+    "desc": "As a DevOps Engineer at ZenByte, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a DevOps Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/68-1/800/450",
+      "https://picsum.photos/seed/68-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1300000
+    },
+    "skills_required": [
+      "Jenkins",
+      "Spring Boot",
+      "PostgreSQL",
+      "C++",
+      "Selenium",
+      "Git",
+      "TensorFlow",
+      "CI/CD"
+    ],
+    "start_date_to_apply": "2025-09-03",
+    "last_date_to_apply": "2025-09-29",
+    "job_rating": 4.1
+  },
+  {
+    "id": "JOB0069",
+    "name": "Backend Developer at GreenField Tech",
+    "role": "Backend Developer",
+    "company_name": "GreenField Tech",
+    "location": "Remote, Global",
+    "desc": "As a Backend Developer at GreenField Tech, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Remote, Global with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Backend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/69-1/800/450",
+      "https://picsum.photos/seed/69-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1100000
+    },
+    "skills_required": [
+      "Linux",
+      "TypeScript",
+      "Express",
+      "Azure",
+      "Testing/QA",
+      "JIRA",
+      "Agile/Scrum",
+      "Microservices"
+    ],
+    "start_date_to_apply": "2025-09-21",
+    "last_date_to_apply": "2025-10-25",
+    "job_rating": 4.3
+  },
+  {
+    "id": "JOB0070",
+    "name": "Support Engineer at Orbitware",
+    "role": "Support Engineer",
+    "company_name": "Orbitware",
+    "location": "Lucknow, IN",
+    "desc": "As a Support Engineer at Orbitware, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Lucknow, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Support Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/70-1/800/450",
+      "https://picsum.photos/seed/70-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "Redis",
+      "Spring Boot",
+      "CI/CD",
+      "Docker",
+      "Agile/Scrum",
+      "Java",
+      "Kafka",
+      "Go"
+    ],
+    "start_date_to_apply": "2025-09-26",
+    "last_date_to_apply": "2025-10-08",
+    "job_rating": 4.0
+  },
+  {
+    "id": "JOB0071",
+    "name": "Blockchain Developer at PixelPioneer",
+    "role": "Blockchain Developer",
+    "company_name": "PixelPioneer",
+    "location": "Mumbai, IN",
+    "desc": "As a Blockchain Developer at PixelPioneer, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Mumbai, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Blockchain Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/71-1/800/450",
+      "https://picsum.photos/seed/71-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 2200000
+    },
+    "skills_required": [
+      "PyTorch",
+      "Selenium",
+      "Go",
+      "Jenkins",
+      "Elasticsearch",
+      "TensorFlow"
+    ],
+    "start_date_to_apply": "2025-09-12",
+    "last_date_to_apply": "2025-10-18",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0072",
+    "name": "QA Engineer at Nimbus Cloud Co",
+    "role": "QA Engineer",
+    "company_name": "Nimbus Cloud Co",
+    "location": "Remote, Global",
+    "desc": "As a QA Engineer at Nimbus Cloud Co, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Remote, Global with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a QA Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/72-1/800/450",
+      "https://picsum.photos/seed/72-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "System Design",
+      "TensorFlow",
+      "Swift",
+      "JavaScript"
+    ],
+    "start_date_to_apply": "2025-09-04",
+    "last_date_to_apply": "2025-10-05",
+    "job_rating": 4.7
+  },
+  {
+    "id": "JOB0073",
+    "name": "Cloud Engineer at Cobalt Data",
+    "role": "Cloud Engineer",
+    "company_name": "Cobalt Data",
+    "location": "Delhi, IN",
+    "desc": "As a Cloud Engineer at Cobalt Data, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Delhi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Cloud Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/73-1/800/450",
+      "https://picsum.photos/seed/73-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2600000
+    },
+    "skills_required": [
+      "Microservices",
+      "Go",
+      "Kafka",
+      "Spring Boot",
+      "Next.js",
+      "AWS",
+      "CI/CD",
+      "Adobe XD"
+    ],
+    "start_date_to_apply": "2025-09-03",
+    "last_date_to_apply": "2025-09-17",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0074",
+    "name": "Frontend Developer at EchoGrid",
+    "role": "Frontend Developer",
+    "company_name": "EchoGrid",
+    "location": "Patna, IN",
+    "desc": "As a Frontend Developer at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Frontend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/74-1/800/450",
+      "https://picsum.photos/seed/74-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1200000
+    },
+    "skills_required": [
+      "Cypress",
+      "REST API",
+      "Git",
+      "Adobe XD",
+      "JavaScript"
+    ],
+    "start_date_to_apply": "2025-09-05",
+    "last_date_to_apply": "2025-10-02",
+    "job_rating": 3.9
+  },
+  {
+    "id": "JOB0075",
+    "name": "Data Analyst at EchoGrid",
+    "role": "Data Analyst",
+    "company_name": "EchoGrid",
+    "location": "Noida, IN",
+    "desc": "As a Data Analyst at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Noida, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/75-1/800/450",
+      "https://picsum.photos/seed/75-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1600000
+    },
+    "skills_required": [
+      "Cypress",
+      "Jenkins",
+      "Swift",
+      "System Design",
+      "CI/CD",
+      "PyTorch",
+      "C#"
+    ],
+    "start_date_to_apply": "2025-09-16",
+    "last_date_to_apply": "2025-10-11",
+    "job_rating": 3.6
+  },
+  {
+    "id": "JOB0076",
+    "name": "Cloud Engineer at OpalWorks",
+    "role": "Cloud Engineer",
+    "company_name": "OpalWorks",
+    "location": "Surat, IN",
+    "desc": "As a Cloud Engineer at OpalWorks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Surat, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Cloud Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/76-1/800/450",
+      "https://picsum.photos/seed/76-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1000000
+    },
+    "skills_required": [
+      "Node.js",
+      "CI/CD",
+      "System Design",
+      "PyTorch",
+      "Django"
+    ],
+    "start_date_to_apply": "2025-09-14",
+    "last_date_to_apply": "2025-10-23",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0077",
+    "name": "Automation Engineer at ZenByte",
+    "role": "Automation Engineer",
+    "company_name": "ZenByte",
+    "location": "Nagpur, IN",
+    "desc": "As a Automation Engineer at ZenByte, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Nagpur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Automation Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/77-1/800/450",
+      "https://picsum.photos/seed/77-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2500000
+    },
+    "skills_required": [
+      "Elasticsearch",
+      "Go",
+      "GraphQL",
+      "Spring Boot",
+      "Figma",
+      "C#",
+      "Flask",
+      "Django"
+    ],
+    "start_date_to_apply": "2025-09-11",
+    "last_date_to_apply": "2025-10-08",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0078",
+    "name": "QA Engineer at BrightPath Analytics",
+    "role": "QA Engineer",
+    "company_name": "BrightPath Analytics",
+    "location": "Kolkata, IN",
+    "desc": "As a QA Engineer at BrightPath Analytics, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kolkata, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a QA Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/78-1/800/450",
+      "https://picsum.photos/seed/78-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "NumPy",
+      "Azure",
+      "PyTorch",
+      "React",
+      "Python",
+      "C#",
+      "System Design",
+      "Testing/QA"
+    ],
+    "start_date_to_apply": "2025-10-01",
+    "last_date_to_apply": "2025-11-01",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0079",
+    "name": "Backend Developer at NexGen Softworks",
+    "role": "Backend Developer",
+    "company_name": "NexGen Softworks",
+    "location": "Surat, IN",
+    "desc": "As a Backend Developer at NexGen Softworks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Surat, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Backend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/79-1/800/450",
+      "https://picsum.photos/seed/79-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1100000
+    },
+    "skills_required": [
+      "Django",
+      "MongoDB",
+      "Spring Boot",
+      "Microservices",
+      "Kotlin",
+      "C++",
+      "JavaScript",
+      "GraphQL"
+    ],
+    "start_date_to_apply": "2025-09-17",
+    "last_date_to_apply": "2025-10-10",
+    "job_rating": 4.7
+  },
+  {
+    "id": "JOB0080",
+    "name": "UI/UX Designer at CrimsonPeak",
+    "role": "UI/UX Designer",
+    "company_name": "CrimsonPeak",
+    "location": "Patna, IN",
+    "desc": "As a UI/UX Designer at CrimsonPeak, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a UI/UX Designer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/80-1/800/450",
+      "https://picsum.photos/seed/80-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2900000
+    },
+    "skills_required": [
+      "Redis",
+      "Express",
+      "Django",
+      "Testing/QA",
+      "Figma",
+      "NumPy",
+      "Python"
+    ],
+    "start_date_to_apply": "2025-09-17",
+    "last_date_to_apply": "2025-10-17",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0081",
+    "name": "Solutions Architect at BlueSky Systems",
+    "role": "Solutions Architect",
+    "company_name": "BlueSky Systems",
+    "location": "Patna, IN",
+    "desc": "As a Solutions Architect at BlueSky Systems, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Solutions Architect to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/81-1/800/450",
+      "https://picsum.photos/seed/81-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "GCP",
+      "Kafka",
+      "Testing/QA",
+      "Jenkins"
+    ],
+    "start_date_to_apply": "2025-09-29",
+    "last_date_to_apply": "2025-10-16",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0082",
+    "name": "AR/VR Developer at LumenLogic",
+    "role": "AR/VR Developer",
+    "company_name": "LumenLogic",
+    "location": "Gurugram, IN",
+    "desc": "As a AR/VR Developer at LumenLogic, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Gurugram, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a AR/VR Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/82-1/800/450",
+      "https://picsum.photos/seed/82-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "REST API",
+      "Selenium",
+      "Git",
+      "TypeScript",
+      "React",
+      "Python",
+      "Next.js"
+    ],
+    "start_date_to_apply": "2025-09-26",
+    "last_date_to_apply": "2025-10-15",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0083",
+    "name": "Business Analyst at GreenField Tech",
+    "role": "Business Analyst",
+    "company_name": "GreenField Tech",
+    "location": "Nagpur, IN",
+    "desc": "As a Business Analyst at GreenField Tech, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Nagpur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Business Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/83-1/800/450",
+      "https://picsum.photos/seed/83-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "REST API",
+      "Docker",
+      "Express",
+      "Ansible",
+      "NumPy"
+    ],
+    "start_date_to_apply": "2025-09-09",
+    "last_date_to_apply": "2025-10-08",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0084",
+    "name": "Database Administrator at EchoGrid",
+    "role": "Database Administrator",
+    "company_name": "EchoGrid",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Database Administrator at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Database Administrator to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/84-1/800/450",
+      "https://picsum.photos/seed/84-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1900000
+    },
+    "skills_required": [
+      "Linux",
+      "Elasticsearch",
+      "JavaScript",
+      "C++",
+      "Jenkins",
+      "Testing/QA",
+      "Figma"
+    ],
+    "start_date_to_apply": "2025-09-09",
+    "last_date_to_apply": "2025-09-24",
+    "job_rating": 3.3
+  },
+  {
+    "id": "JOB0085",
+    "name": "Site Reliability Engineer at LumenLogic",
+    "role": "Site Reliability Engineer",
+    "company_name": "LumenLogic",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Site Reliability Engineer at LumenLogic, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/85-1/800/450",
+      "https://picsum.photos/seed/85-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1900000
+    },
+    "skills_required": [
+      "Git",
+      "Kubernetes",
+      "NumPy",
+      "C#",
+      "MongoDB",
+      "GCP",
+      "Networking"
+    ],
+    "start_date_to_apply": "2025-09-22",
+    "last_date_to_apply": "2025-10-20",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0086",
+    "name": "Blockchain Developer at Solstice AI",
+    "role": "Blockchain Developer",
+    "company_name": "Solstice AI",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Blockchain Developer at Solstice AI, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Blockchain Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/86-1/800/450",
+      "https://picsum.photos/seed/86-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2800000
+    },
+    "skills_required": [
+      "JIRA",
+      "Testing/QA",
+      "System Design",
+      "Networking"
+    ],
+    "start_date_to_apply": "2025-09-02",
+    "last_date_to_apply": "2025-09-13",
+    "job_rating": 4.7
+  },
+  {
+    "id": "JOB0087",
+    "name": "Product Manager at RiverStone Digital",
+    "role": "Product Manager",
+    "company_name": "RiverStone Digital",
+    "location": "Patna, IN",
+    "desc": "As a Product Manager at RiverStone Digital, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Product Manager to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/87-1/800/450",
+      "https://picsum.photos/seed/87-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "Azure",
+      "Kafka",
+      "Kubernetes",
+      "Ansible",
+      "Linux",
+      "Testing/QA"
+    ],
+    "start_date_to_apply": "2025-09-28",
+    "last_date_to_apply": "2025-11-01",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0088",
+    "name": "Data Analyst at EchoGrid",
+    "role": "Data Analyst",
+    "company_name": "EchoGrid",
+    "location": "Hyderabad, IN",
+    "desc": "As a Data Analyst at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Hyderabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/88-1/800/450",
+      "https://picsum.photos/seed/88-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2600000
+    },
+    "skills_required": [
+      "Spring Boot",
+      "React",
+      "Agile/Scrum",
+      "Pandas",
+      "MySQL",
+      "Express"
+    ],
+    "start_date_to_apply": "2025-09-22",
+    "last_date_to_apply": "2025-10-31",
+    "job_rating": 3.7
+  },
+  {
+    "id": "JOB0089",
+    "name": "Cloud Engineer at NexGen Softworks",
+    "role": "Cloud Engineer",
+    "company_name": "NexGen Softworks",
+    "location": "Chandigarh, IN",
+    "desc": "As a Cloud Engineer at NexGen Softworks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Cloud Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/89-1/800/450",
+      "https://picsum.photos/seed/89-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2300000
+    },
+    "skills_required": [
+      "Kotlin",
+      "Swift",
+      "CI/CD",
+      "REST API",
+      "Linux",
+      "C#"
+    ],
+    "start_date_to_apply": "2025-09-07",
+    "last_date_to_apply": "2025-10-17",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0090",
+    "name": "Data Analyst at SilverOak Networks",
+    "role": "Data Analyst",
+    "company_name": "SilverOak Networks",
+    "location": "Pune, IN",
+    "desc": "As a Data Analyst at SilverOak Networks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Pune, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/90-1/800/450",
+      "https://picsum.photos/seed/90-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2300000
+    },
+    "skills_required": [
+      "Microservices",
+      "Azure",
+      "Testing/QA",
+      "Security",
+      "TensorFlow"
+    ],
+    "start_date_to_apply": "2025-09-27",
+    "last_date_to_apply": "2025-11-06",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0091",
+    "name": "ML Engineer at TechNova Labs",
+    "role": "ML Engineer",
+    "company_name": "TechNova Labs",
+    "location": "Ahmedabad, IN",
+    "desc": "As a ML Engineer at TechNova Labs, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a ML Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/91-1/800/450",
+      "https://picsum.photos/seed/91-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1300000
+    },
+    "skills_required": [
+      "PostgreSQL",
+      "C++",
+      "Pandas",
+      "Testing/QA",
+      "Security",
+      "Linux",
+      "Agile/Scrum",
+      "NumPy"
+    ],
+    "start_date_to_apply": "2025-09-04",
+    "last_date_to_apply": "2025-10-10",
+    "job_rating": 4.3
+  },
+  {
+    "id": "JOB0092",
+    "name": "Mobile App Developer at Firefly Studios",
+    "role": "Mobile App Developer",
+    "company_name": "Firefly Studios",
+    "location": "Bengaluru, IN",
+    "desc": "As a Mobile App Developer at Firefly Studios, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Bengaluru, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Mobile App Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/92-1/800/450",
+      "https://picsum.photos/seed/92-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2600000
+    },
+    "skills_required": [
+      "Adobe XD",
+      "Python",
+      "Ansible",
+      "Azure",
+      "Redis",
+      "Node.js",
+      "Kafka",
+      "C++"
+    ],
+    "start_date_to_apply": "2025-09-23",
+    "last_date_to_apply": "2025-11-01",
+    "job_rating": 4.4
+  },
+  {
+    "id": "JOB0093",
+    "name": "Data Scientist at BlueSky Systems",
+    "role": "Data Scientist",
+    "company_name": "BlueSky Systems",
+    "location": "Hyderabad, IN",
+    "desc": "As a Data Scientist at BlueSky Systems, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Hyderabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Scientist to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/93-1/800/450",
+      "https://picsum.photos/seed/93-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 900000,
+      "max": 2600000
+    },
+    "skills_required": [
+      "Go",
+      "PostgreSQL",
+      "MongoDB",
+      "GCP",
+      "Figma",
+      "MySQL"
+    ],
+    "start_date_to_apply": "2025-09-05",
+    "last_date_to_apply": "2025-09-27",
+    "job_rating": 4.0
+  },
+  {
+    "id": "JOB0094",
+    "name": "Automation Engineer at HyperTrail",
+    "role": "Automation Engineer",
+    "company_name": "HyperTrail",
+    "location": "Noida, IN",
+    "desc": "As a Automation Engineer at HyperTrail, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Noida, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Automation Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/94-1/800/450",
+      "https://picsum.photos/seed/94-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2500000
+    },
+    "skills_required": [
+      "Redis",
+      "MongoDB",
+      "Go",
+      "Ansible",
+      "PyTorch",
+      "CI/CD",
+      "React"
+    ],
+    "start_date_to_apply": "2025-09-20",
+    "last_date_to_apply": "2025-10-22",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0095",
+    "name": "Mobile App Developer at AquaBridge",
+    "role": "Mobile App Developer",
+    "company_name": "AquaBridge",
+    "location": "Gurugram, IN",
+    "desc": "As a Mobile App Developer at AquaBridge, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Gurugram, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Mobile App Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/95-1/800/450",
+      "https://picsum.photos/seed/95-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2800000
+    },
+    "skills_required": [
+      "Figma",
+      "Redis",
+      "Flask",
+      "Next.js",
+      "TensorFlow",
+      "CI/CD"
+    ],
+    "start_date_to_apply": "2025-10-02",
+    "last_date_to_apply": "2025-10-18",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0096",
+    "name": "Blockchain Developer at BrightPath Analytics",
+    "role": "Blockchain Developer",
+    "company_name": "BrightPath Analytics",
+    "location": "Patna, IN",
+    "desc": "As a Blockchain Developer at BrightPath Analytics, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Blockchain Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/96-1/800/450",
+      "https://picsum.photos/seed/96-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "Next.js",
+      "Django",
+      "GCP",
+      "MySQL"
+    ],
+    "start_date_to_apply": "2025-09-04",
+    "last_date_to_apply": "2025-10-09",
+    "job_rating": 4.2
+  },
+  {
+    "id": "JOB0097",
+    "name": "Cloud Engineer at RiverStone Digital",
+    "role": "Cloud Engineer",
+    "company_name": "RiverStone Digital",
+    "location": "Remote, Global",
+    "desc": "As a Cloud Engineer at RiverStone Digital, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Remote, Global with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Cloud Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/97-1/800/450",
+      "https://picsum.photos/seed/97-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1200000
+    },
+    "skills_required": [
+      "Terraform",
+      "JavaScript",
+      "CI/CD",
+      "GraphQL",
+      "MySQL"
+    ],
+    "start_date_to_apply": "2025-09-20",
+    "last_date_to_apply": "2025-10-17",
+    "job_rating": 3.6
+  },
+  {
+    "id": "JOB0098",
+    "name": "Frontend Developer at NexGen Softworks",
+    "role": "Frontend Developer",
+    "company_name": "NexGen Softworks",
+    "location": "Bengaluru, IN",
+    "desc": "As a Frontend Developer at NexGen Softworks, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Bengaluru, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Frontend Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/98-1/800/450",
+      "https://picsum.photos/seed/98-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2700000
+    },
+    "skills_required": [
+      "GCP",
+      "Agile/Scrum",
+      "Python",
+      "TypeScript",
+      "Docker",
+      "Linux"
+    ],
+    "start_date_to_apply": "2025-09-23",
+    "last_date_to_apply": "2025-10-04",
+    "job_rating": 3.4
+  },
+  {
+    "id": "JOB0099",
+    "name": "Automation Engineer at QuantumLeaf",
+    "role": "Automation Engineer",
+    "company_name": "QuantumLeaf",
+    "location": "Lucknow, IN",
+    "desc": "As a Automation Engineer at QuantumLeaf, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Lucknow, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Automation Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/99-1/800/450",
+      "https://picsum.photos/seed/99-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "System Design",
+      "Pandas",
+      "Swift",
+      "Agile/Scrum",
+      "MongoDB",
+      "Spring Boot",
+      "Networking"
+    ],
+    "start_date_to_apply": "2025-09-05",
+    "last_date_to_apply": "2025-09-22",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0100",
+    "name": "Database Administrator at EchoGrid",
+    "role": "Database Administrator",
+    "company_name": "EchoGrid",
+    "location": "Bengaluru, IN",
+    "desc": "As a Database Administrator at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Bengaluru, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Database Administrator to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/100-1/800/450",
+      "https://picsum.photos/seed/100-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 1300000
+    },
+    "skills_required": [
+      "C#",
+      "TensorFlow",
+      "Java",
+      "Testing/QA"
+    ],
+    "start_date_to_apply": "2025-09-11",
+    "last_date_to_apply": "2025-09-24",
+    "job_rating": 4.0
+  },
+  {
+    "id": "JOB0101",
+    "name": "Full-Stack Engineer at CrimsonPeak",
+    "role": "Full-Stack Engineer",
+    "company_name": "CrimsonPeak",
+    "location": "Patna, IN",
+    "desc": "As a Full-Stack Engineer at CrimsonPeak, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Patna, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Full-Stack Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/101-1/800/450",
+      "https://picsum.photos/seed/101-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 2200000
+    },
+    "skills_required": [
+      "Node.js",
+      "MySQL",
+      "CI/CD",
+      "Ansible",
+      "Kafka"
+    ],
+    "start_date_to_apply": "2025-09-30",
+    "last_date_to_apply": "2025-10-28",
+    "job_rating": 4.1
+  },
+  {
+    "id": "JOB0102",
+    "name": "Business Analyst at ZenByte",
+    "role": "Business Analyst",
+    "company_name": "ZenByte",
+    "location": "Indore, IN",
+    "desc": "As a Business Analyst at ZenByte, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Indore, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Business Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/102-1/800/450",
+      "https://picsum.photos/seed/102-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2500000
+    },
+    "skills_required": [
+      "Terraform",
+      "Java",
+      "MongoDB",
+      "Selenium",
+      "PostgreSQL",
+      "Redis",
+      "Security",
+      "Adobe XD"
+    ],
+    "start_date_to_apply": "2025-09-21",
+    "last_date_to_apply": "2025-10-24",
+    "job_rating": 4.7
+  },
+  {
+    "id": "JOB0103",
+    "name": "Mobile App Developer at GreenField Tech",
+    "role": "Mobile App Developer",
+    "company_name": "GreenField Tech",
+    "location": "Remote, Global",
+    "desc": "As a Mobile App Developer at GreenField Tech, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Remote, Global with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Mobile App Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/103-1/800/450",
+      "https://picsum.photos/seed/103-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "TensorFlow",
+      "PyTorch",
+      "Security",
+      "MongoDB",
+      "Python",
+      "Java",
+      "Cypress"
+    ],
+    "start_date_to_apply": "2025-09-30",
+    "last_date_to_apply": "2025-10-31",
+    "job_rating": 3.6
+  },
+  {
+    "id": "JOB0104",
+    "name": "Full-Stack Engineer at QuantumLeaf",
+    "role": "Full-Stack Engineer",
+    "company_name": "QuantumLeaf",
+    "location": "Pune, IN",
+    "desc": "As a Full-Stack Engineer at QuantumLeaf, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Pune, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Full-Stack Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/104-1/800/450",
+      "https://picsum.photos/seed/104-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 2200000
+    },
+    "skills_required": [
+      "MongoDB",
+      "Networking",
+      "Microservices",
+      "Pandas",
+      "MySQL",
+      "Adobe XD",
+      "Next.js"
+    ],
+    "start_date_to_apply": "2025-09-04",
+    "last_date_to_apply": "2025-10-02",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0105",
+    "name": "Data Analyst at GreenField Tech",
+    "role": "Data Analyst",
+    "company_name": "GreenField Tech",
+    "location": "Delhi, IN",
+    "desc": "As a Data Analyst at GreenField Tech, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Delhi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/105-1/800/450",
+      "https://picsum.photos/seed/105-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "Security",
+      "Next.js",
+      "Jenkins",
+      "Terraform",
+      "Git",
+      "Flask",
+      "MongoDB"
+    ],
+    "start_date_to_apply": "2025-09-23",
+    "last_date_to_apply": "2025-10-21",
+    "job_rating": 4.1
+  },
+  {
+    "id": "JOB0106",
+    "name": "Data Analyst at AquaBridge",
+    "role": "Data Analyst",
+    "company_name": "AquaBridge",
+    "location": "Chandigarh, IN",
+    "desc": "As a Data Analyst at AquaBridge, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chandigarh, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/106-1/800/450",
+      "https://picsum.photos/seed/106-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 1400000
+    },
+    "skills_required": [
+      "PostgreSQL",
+      "Microservices",
+      "CI/CD",
+      "JIRA",
+      "Azure",
+      "Java"
+    ],
+    "start_date_to_apply": "2025-09-09",
+    "last_date_to_apply": "2025-10-16",
+    "job_rating": 4.2
+  },
+  {
+    "id": "JOB0107",
+    "name": "Blockchain Developer at LumenLogic",
+    "role": "Blockchain Developer",
+    "company_name": "LumenLogic",
+    "location": "Ahmedabad, IN",
+    "desc": "As a Blockchain Developer at LumenLogic, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Ahmedabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Blockchain Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/107-1/800/450",
+      "https://picsum.photos/seed/107-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1000000
+    },
+    "skills_required": [
+      "Docker",
+      "CI/CD",
+      "Selenium",
+      "Microservices"
+    ],
+    "start_date_to_apply": "2025-09-21",
+    "last_date_to_apply": "2025-10-10",
+    "job_rating": 4.8
+  },
+  {
+    "id": "JOB0108",
+    "name": "Data Scientist at SummitStack",
+    "role": "Data Scientist",
+    "company_name": "SummitStack",
+    "location": "Jaipur, IN",
+    "desc": "As a Data Scientist at SummitStack, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Jaipur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Scientist to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/108-1/800/450",
+      "https://picsum.photos/seed/108-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "GraphQL",
+      "Networking",
+      "Kafka",
+      "TypeScript"
+    ],
+    "start_date_to_apply": "2025-09-07",
+    "last_date_to_apply": "2025-09-19",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0109",
+    "name": "Database Administrator at CrimsonPeak",
+    "role": "Database Administrator",
+    "company_name": "CrimsonPeak",
+    "location": "Mumbai, IN",
+    "desc": "As a Database Administrator at CrimsonPeak, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Mumbai, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Database Administrator to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/109-1/800/450",
+      "https://picsum.photos/seed/109-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1000000
+    },
+    "skills_required": [
+      "Git",
+      "Security",
+      "Python",
+      "JIRA",
+      "Terraform",
+      "Express"
+    ],
+    "start_date_to_apply": "2025-09-15",
+    "last_date_to_apply": "2025-10-23",
+    "job_rating": 3.3
+  },
+  {
+    "id": "JOB0110",
+    "name": "Full-Stack Engineer at Nimbus Cloud Co",
+    "role": "Full-Stack Engineer",
+    "company_name": "Nimbus Cloud Co",
+    "location": "Indore, IN",
+    "desc": "As a Full-Stack Engineer at Nimbus Cloud Co, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Indore, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Full-Stack Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/110-1/800/450",
+      "https://picsum.photos/seed/110-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "Go",
+      "Terraform",
+      "Spring Boot",
+      "PyTorch",
+      "CI/CD",
+      "AWS",
+      "Swift"
+    ],
+    "start_date_to_apply": "2025-09-23",
+    "last_date_to_apply": "2025-10-06",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0111",
+    "name": "Blockchain Developer at SummitStack",
+    "role": "Blockchain Developer",
+    "company_name": "SummitStack",
+    "location": "Lucknow, IN",
+    "desc": "As a Blockchain Developer at SummitStack, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Lucknow, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Blockchain Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/111-1/800/450",
+      "https://picsum.photos/seed/111-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 500000,
+      "max": 1300000
+    },
+    "skills_required": [
+      "Elasticsearch",
+      "Git",
+      "React",
+      "Azure",
+      "TensorFlow",
+      "Terraform",
+      "Next.js",
+      "JavaScript"
+    ],
+    "start_date_to_apply": "2025-09-23",
+    "last_date_to_apply": "2025-10-09",
+    "job_rating": 3.7
+  },
+  {
+    "id": "JOB0112",
+    "name": "UI/UX Designer at ZenByte",
+    "role": "UI/UX Designer",
+    "company_name": "ZenByte",
+    "location": "Remote, Global",
+    "desc": "As a UI/UX Designer at ZenByte, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Remote, Global with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a UI/UX Designer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/112-1/800/450",
+      "https://picsum.photos/seed/112-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1900000
+    },
+    "skills_required": [
+      "JavaScript",
+      "Go",
+      "Networking",
+      "Java"
+    ],
+    "start_date_to_apply": "2025-09-26",
+    "last_date_to_apply": "2025-10-11",
+    "job_rating": 3.4
+  },
+  {
+    "id": "JOB0113",
+    "name": "Solutions Architect at UrbanCloud",
+    "role": "Solutions Architect",
+    "company_name": "UrbanCloud",
+    "location": "Delhi, IN",
+    "desc": "As a Solutions Architect at UrbanCloud, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Delhi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Solutions Architect to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/113-1/800/450",
+      "https://picsum.photos/seed/113-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1800000
+    },
+    "skills_required": [
+      "TensorFlow",
+      "Networking",
+      "React",
+      "Java"
+    ],
+    "start_date_to_apply": "2025-09-18",
+    "last_date_to_apply": "2025-09-28",
+    "job_rating": 4.0
+  },
+  {
+    "id": "JOB0114",
+    "name": "Site Reliability Engineer at SummitStack",
+    "role": "Site Reliability Engineer",
+    "company_name": "SummitStack",
+    "location": "Jaipur, IN",
+    "desc": "As a Site Reliability Engineer at SummitStack, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Jaipur, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Site Reliability Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/114-1/800/450",
+      "https://picsum.photos/seed/114-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 600000,
+      "max": 1200000
+    },
+    "skills_required": [
+      "Jenkins",
+      "PostgreSQL",
+      "TensorFlow",
+      "TypeScript",
+      "Python",
+      "REST API",
+      "Ansible"
+    ],
+    "start_date_to_apply": "2025-09-20",
+    "last_date_to_apply": "2025-10-14",
+    "job_rating": 4.6
+  },
+  {
+    "id": "JOB0115",
+    "name": "Data Analyst at RiverStone Digital",
+    "role": "Data Analyst",
+    "company_name": "RiverStone Digital",
+    "location": "Kochi, IN",
+    "desc": "As a Data Analyst at RiverStone Digital, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Kochi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Data Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/115-1/800/450",
+      "https://picsum.photos/seed/115-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1500000
+    },
+    "skills_required": [
+      "TensorFlow",
+      "Kotlin",
+      "Express",
+      "System Design",
+      "Git",
+      "Django",
+      "Azure",
+      "Selenium"
+    ],
+    "start_date_to_apply": "2025-09-15",
+    "last_date_to_apply": "2025-10-19",
+    "job_rating": 3.5
+  },
+  {
+    "id": "JOB0116",
+    "name": "Business Analyst at BrightPath Analytics",
+    "role": "Business Analyst",
+    "company_name": "BrightPath Analytics",
+    "location": "Delhi, IN",
+    "desc": "As a Business Analyst at BrightPath Analytics, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Delhi, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Business Analyst to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/116-1/800/450",
+      "https://picsum.photos/seed/116-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1600000
+    },
+    "skills_required": [
+      "Security",
+      "Redis",
+      "GraphQL",
+      "GCP",
+      "MongoDB",
+      "Networking"
+    ],
+    "start_date_to_apply": "2025-09-18",
+    "last_date_to_apply": "2025-10-06",
+    "job_rating": 3.5
+  },
+  {
+    "id": "JOB0117",
+    "name": "Support Engineer at EchoGrid",
+    "role": "Support Engineer",
+    "company_name": "EchoGrid",
+    "location": "Pune, IN",
+    "desc": "As a Support Engineer at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Pune, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Support Engineer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/117-1/800/450",
+      "https://picsum.photos/seed/117-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 700000,
+      "max": 2100000
+    },
+    "skills_required": [
+      "System Design",
+      "Kafka",
+      "Go",
+      "C++",
+      "Microservices"
+    ],
+    "start_date_to_apply": "2025-09-26",
+    "last_date_to_apply": "2025-10-24",
+    "job_rating": 4.5
+  },
+  {
+    "id": "JOB0118",
+    "name": "AR/VR Developer at CrimsonPeak",
+    "role": "AR/VR Developer",
+    "company_name": "CrimsonPeak",
+    "location": "Noida, IN",
+    "desc": "As a AR/VR Developer at CrimsonPeak, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Noida, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a AR/VR Developer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/118-1/800/450",
+      "https://picsum.photos/seed/118-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 400000,
+      "max": 1700000
+    },
+    "skills_required": [
+      "Node.js",
+      "C#",
+      "Spring Boot",
+      "Kafka",
+      "Git",
+      "CI/CD",
+      "Agile/Scrum"
+    ],
+    "start_date_to_apply": "2025-09-29",
+    "last_date_to_apply": "2025-10-10",
+    "job_rating": 3.8
+  },
+  {
+    "id": "JOB0119",
+    "name": "Database Administrator at BlueSky Systems",
+    "role": "Database Administrator",
+    "company_name": "BlueSky Systems",
+    "location": "Hyderabad, IN",
+    "desc": "As a Database Administrator at BlueSky Systems, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Hyderabad, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Database Administrator to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/119-1/800/450",
+      "https://picsum.photos/seed/119-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 800000,
+      "max": 1300000
+    },
+    "skills_required": [
+      "Jenkins",
+      "Node.js",
+      "Redis",
+      "Express",
+      "Ansible",
+      "Terraform"
+    ],
+    "start_date_to_apply": "2025-09-16",
+    "last_date_to_apply": "2025-10-12",
+    "job_rating": 3.9
+  },
+  {
+    "id": "JOB0120",
+    "name": "Technical Writer at EchoGrid",
+    "role": "Technical Writer",
+    "company_name": "EchoGrid",
+    "location": "Chennai, IN",
+    "desc": "As a Technical Writer at EchoGrid, you will work with a cross‑functional team to design, build, and scale modern solutions. You'll collaborate closely with product and design, write clean and maintainable code, and participate in code reviews. The role is based in Chennai, IN with flexible work options. We value ownership, curiosity, and a bias for action. Benefits include health insurance, learning budget, and flexible hours.",
+    "short_description": "Hiring a Technical Writer to build, ship, and scale features with a modern stack.",
+    "images": [
+      "https://picsum.photos/seed/120-1/800/450",
+      "https://picsum.photos/seed/120-2/800/450"
+    ],
+    "salary": {
+      "currency": "INR",
+      "period": "year",
+      "min": 1000000,
+      "max": 2400000
+    },
+    "skills_required": [
+      "Terraform",
+      "C#",
+      "Swift",
+      "GraphQL",
+      "Next.js",
+      "Spring Boot"
+    ],
+    "start_date_to_apply": "2025-09-16",
+    "last_date_to_apply": "2025-09-29",
+    "job_rating": 4.6
+  }
+]
