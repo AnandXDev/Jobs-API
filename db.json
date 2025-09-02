@@ -1,6 +1,8 @@
 
-  {
-    "id": "JOB0001",
+{
+  "jobs": [
+    {
+      "id": "JOB0001",
     "name": "Data Analyst at TechNova Labs",
     "role": "Data Analyst",
     "company_name": "TechNova Labs",
@@ -3621,4 +3623,6 @@
     "start_date_to_apply": "2025-09-16",
     "last_date_to_apply": "2025-09-29",
     "job_rating": 4.6
-  }
+    }
+  ]
+}
